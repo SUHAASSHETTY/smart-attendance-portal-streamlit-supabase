@@ -1,0 +1,10 @@
+streamlit
+pandas
+python-dotenv
+pytz
+supabase
+requests
+PyGithub
+matplotlib
+typing_extensions
+ipykernel
